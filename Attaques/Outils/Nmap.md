@@ -1,0 +1,1 @@
+`nmap -sV -sC $IP -v -p- --min-rate 1000 -Pn -T4`

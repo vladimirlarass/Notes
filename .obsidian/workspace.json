@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "92649f10a16802ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "72bb9d307f85a5f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7caaa871bf8e5b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attaques/Élévation des privilèges/Linux/Capabilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capabilities"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1077dde6a2bda0f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8631b13b55759fb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84031a9bf576d570",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "d2e2761795e78dee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "ec486c0049b30a74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7beb42a25eece18b",
+    "type": "split",
+    "children": [
+      {
+        "id": "82d535dcc2038187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aac9d2046217e86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Attaques/Outils/Evil-WinRM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Evil-WinRM"
+            }
+          },
+          {
+            "id": "0dcdaf4f983c43c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "c7df1dfa02767e1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "1631a319f3be9e93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "7caaa871bf8e5b8e",
+  "lastOpenFiles": [
+    "Attaques/Outils/linPeas.md",
+    "Attaques/Élévation des privilèges/Linux/Capabilities.md",
+    "Attaques/Élévation des privilèges/Azure",
+    "Attaques/Élévation des privilèges/Linux",
+    "Attaques/Élévation des privilèges/Windows",
+    "Attaques/Élévation des privilèges/AD",
+    "Attaques/Outils/Nmap.md",
+    "Attaques/Enumerations/LDAP/Enumeration LDAP.md",
+    "Attaques/Outils/Evil-WinRM.md",
+    "Attaques/Enumerations/SMB/Enumeration SMB.md",
+    "README.md",
+    "Attaques/Outils",
+    "1.md",
+    "Attaques/Élévation des privilèges/Windows/LAPS Privilege Escalation.md",
+    "Attaques/Enumerations/SMB",
+    "Attaques/Élévation des privilèges",
+    "Attaques/Enumerations/AD_Users/Enumeration Active Directory - Utilisateurs.md",
+    "Attaques/Enumerations/AD_Users"
+  ]
+}
