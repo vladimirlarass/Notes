@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attaques/Élévation des privilèges/Linux/Capabilities.md",
+                "file": "Attaques/Reverse Shell/JSP War Shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capabilities"
+              "title": "JSP War Shell"
             }
           }
         ]
@@ -161,20 +161,25 @@
   },
   "active": "7caaa871bf8e5b8e",
   "lastOpenFiles": [
-    "Attaques/Outils/linPeas.md",
+    "Attaques/Élévation des privilèges/Windows/LAPS Privilege Escalation.md",
+    "Attaques/Élévation des privilèges/Windows/Windows PrivEsc avec SeBackupPrivilege activé.md",
+    "Attaques/Python.md",
+    "Attaques/Outils/Evil-WinRM.md",
+    "Attaques/Outils/Crackmapexec.md",
+    "Attaques/Reverse Shell/JSP War Shell.md",
     "Attaques/Élévation des privilèges/Linux/Capabilities.md",
+    "Attaques/Reverse Shell",
+    "Attaques/Outils/linPeas.md",
     "Attaques/Élévation des privilèges/Azure",
     "Attaques/Élévation des privilèges/Linux",
     "Attaques/Élévation des privilèges/Windows",
     "Attaques/Élévation des privilèges/AD",
     "Attaques/Outils/Nmap.md",
     "Attaques/Enumerations/LDAP/Enumeration LDAP.md",
-    "Attaques/Outils/Evil-WinRM.md",
     "Attaques/Enumerations/SMB/Enumeration SMB.md",
     "README.md",
     "Attaques/Outils",
     "1.md",
-    "Attaques/Élévation des privilèges/Windows/LAPS Privilege Escalation.md",
     "Attaques/Enumerations/SMB",
     "Attaques/Élévation des privilèges",
     "Attaques/Enumerations/AD_Users/Enumeration Active Directory - Utilisateurs.md",

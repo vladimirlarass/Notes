@@ -7,5 +7,7 @@ Ce programme peut être utilisé sur n'importe quel serveur Microsoft Windows av
 Il est principalement basé sur la bibliothèque WinRM Ruby qui a changé sa façon de fonctionner depuis sa version 2.0. Désormais, au lieu d'utiliser le protocole WinRM, il utilise PSRP (Powershell Remoting Protocol) pour initialiser les pools d'espaces d'exécution ainsi que pour créer et traiter les pipelines.
 
 
+`evil-winrm -i MonIP -u emily.oscars  -p 'Passw'`
+
 
 https://github.com/Hackplayers/evil-winrm
