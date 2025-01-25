@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attaques/Reverse Shell/JSP War Shell.md",
+                "file": "Attaques/Prérequis pour un test de pénétration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSP War Shell"
+              "title": "Prérequis pour un test de pénétration"
             }
           }
         ]
@@ -161,12 +161,18 @@
   },
   "active": "7caaa871bf8e5b8e",
   "lastOpenFiles": [
+    "Attaques/Structure d'un test de pénétration.md",
+    "Attaques/Web/Injection de commande du système d'exploitation.md",
+    "Attaques/Prérequis pour un test de pénétration.md",
+    "Attaques/Web/Attaques de falsification de requête côté serveur (SSRF)/Attaques de falsification de requête côté serveur (SSRF).md",
+    "Attaques/Reverse Shell/JSP War Shell.md",
+    "Attaques/Web/Attaques de falsification de requête côté serveur (SSRF)",
+    "Attaques/Web/Vulnérabilités d'authentification",
     "Attaques/Élévation des privilèges/Windows/LAPS Privilege Escalation.md",
     "Attaques/Élévation des privilèges/Windows/Windows PrivEsc avec SeBackupPrivilege activé.md",
     "Attaques/Python.md",
     "Attaques/Outils/Evil-WinRM.md",
     "Attaques/Outils/Crackmapexec.md",
-    "Attaques/Reverse Shell/JSP War Shell.md",
     "Attaques/Élévation des privilèges/Linux/Capabilities.md",
     "Attaques/Reverse Shell",
     "Attaques/Outils/linPeas.md",
@@ -182,7 +188,6 @@
     "1.md",
     "Attaques/Enumerations/SMB",
     "Attaques/Élévation des privilèges",
-    "Attaques/Enumerations/AD_Users/Enumeration Active Directory - Utilisateurs.md",
-    "Attaques/Enumerations/AD_Users"
+    "Attaques/Enumerations/AD_Users/Enumeration Active Directory - Utilisateurs.md"
   ]
 }
