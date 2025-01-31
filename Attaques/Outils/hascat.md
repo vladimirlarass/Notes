@@ -1,0 +1,3 @@
+```
+hashcat --help | grep Kerberos
+```
