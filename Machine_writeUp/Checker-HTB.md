@@ -24,7 +24,7 @@ port 8080
 je suis tombe sur la page web , qui est un une page de login . j'ai essaye des emails et mots de passe basique rien . 
 
 ![[Pasted image 20250226110719.png]] 
-<img src="Notes/Pasted image 20250226110631.png" > 
+<img src="/../Pasted image 20250226110631.png" > 
 
 Apres j'ai intercepte dans burpsuite la page web j'ai trouve un cookie 
 
