@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "72bb9d307f85a5f1",
+        "id": "fe3729a9d8f5167f",
         "type": "tabs",
         "children": [
           {
-            "id": "7caaa871bf8e5b8e",
+            "id": "50626f0374105b24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_writeUp/Checker-HTB.md",
+                "file": "Attaques/Enumerations/Enumeration Active Directory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checker-HTB"
+              "title": "Enumeration Active Directory"
             }
           }
         ]
@@ -160,12 +160,21 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7caaa871bf8e5b8e",
+  "active": "50626f0374105b24",
   "lastOpenFiles": [
+    "Informations/Compte dans Active Directory.md",
+    "Informations/contrôleur de Domaine.md",
+    "Informations/Relation D'approbation Pour les Forest Dans l'AD.md",
+    "Informations/SID ( Identificateurs de sécurité ).md",
+    "Informations/Strategie de Groupe.md",
+    "Attaques/Enumerations/Enumeration Active Directory.md",
+    "approbations de domaine.md",
+    "Informations",
+    "Attaques/Enumerations/AD_Domain/enumeration Domain Active directory.md",
+    "Machine_writeUp/Checker-HTB.md",
     "Pasted image 20250226110719.png",
     "Pasted image 20250226110631.png",
     "Attaques/Outils/Nmap.md",
-    "Machine_writeUp/Checker-HTB.md",
     "Machine_writeUp",
     "Attaques/Outils/Poweview.md",
     "Attaques/Web/JWT Attacks/JWT Attacks.md",
@@ -173,7 +182,6 @@
     "Attaques/Outils/Bloodhound.md",
     "Attaques/Outils/Guacamole.md",
     "Attaques/Outils/PowerUps.md",
-    "Attaques/Enumerations/AD_Domain/enumeration Domain Active directory.md",
     "Attaques/Enumerations/SMB/Enumeration SMB.md",
     "Attaques/Outils/Crackmapexec.md",
     "Attaques/Web/Inclusion de fichier.md",
@@ -187,17 +195,10 @@
     "Attaques/Enumerations/AD_Users/Enumeration Active Directory - Utilisateurs.md",
     "Attaques/Enumerations/AD_Domain",
     "Attaques/Outils/hascat.md",
-    "Attaques/Outils/GetNPUsers.py.md",
-    "Attaques/Active Directory/AS-REP roasting.md",
-    "Attaques/Enumerations/Kerberos/Enumeration Kerberos.md",
     "Attaques/Enumerations/Kerberos",
-    "Attaques/Enumerations/LDAP/Enumeration LDAP.md",
-    "Attaques/Prérequis pour un test de pénétration.md",
-    "Attaques/Structure d'un test de pénétration.md",
     "Attaques/Web/Attaques de falsification de requête côté serveur (SSRF)",
     "Attaques/Web/Vulnérabilités d'authentification",
     "Attaques/Reverse Shell",
-    "Attaques/Élévation des privilèges/Azure",
-    "Attaques/Élévation des privilèges/Linux"
+    "Attaques/Élévation des privilèges/Azure"
   ]
 }
