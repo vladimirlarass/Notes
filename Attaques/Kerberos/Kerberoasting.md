@@ -1,0 +1,1 @@
+Lorsqu'un utilisateur demande un ticket de service (TS) au KDC (centre de distribution de clés), il doit envoyer un TGT (ticket d'octroi de ticket) valide et le nom `sname`du service souhaité ( ). Si le TGT est valide et que le service existe, le KDC lui envoie le TS.

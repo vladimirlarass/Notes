@@ -1,0 +1,1 @@
+/home/kali/Documents/TryHackme/Wordlist/rockyou.txt

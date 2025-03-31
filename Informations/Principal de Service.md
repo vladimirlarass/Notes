@@ -1,0 +1,1 @@
+https://learn.microsoft.com/fr-fr/entra/identity-platform/app-objects-and-service-principals?tabs=browser

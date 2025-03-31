@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attaques/Enumerations/Enumeration Active Directory.md",
+                "file": "Machine_writeUp/Active.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration Active Directory"
+              "title": "Active"
+            }
+          },
+          {
+            "id": "8379c0302b3fcd93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attaques/Outils/PsExec v2.43.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PsExec v2.43"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,45 +175,45 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "50626f0374105b24",
+  "active": "8379c0302b3fcd93",
   "lastOpenFiles": [
-    "Informations/Compte dans Active Directory.md",
-    "Informations/contrôleur de Domaine.md",
-    "Informations/Relation D'approbation Pour les Forest Dans l'AD.md",
-    "Informations/SID ( Identificateurs de sécurité ).md",
-    "Informations/Strategie de Groupe.md",
-    "Attaques/Enumerations/Enumeration Active Directory.md",
-    "approbations de domaine.md",
-    "Informations",
-    "Attaques/Enumerations/AD_Domain/enumeration Domain Active directory.md",
+    "Mes Fichiers.md",
+    "Attaques/Outils/PsExec v2.43.md",
+    "Machine_writeUp/Active.md",
+    "Machine_writeUp/Haze HacktheBox.md",
     "Machine_writeUp/Checker-HTB.md",
+    "Attaques/Kerberos/Kerberoasting.md",
+    "Attaques/Enumerations/Kerberos/Enumeration Kerberos.md",
+    "Attaques/Enumerations/SMB/Enumeration SMB.md",
+    "Attaques/Enumerations/Enumeration Active Directory.md",
+    "Attaques/Web/JWT Attacks/JWT Attacks.md",
+    "Attaques/Enumerations/LDAP/Enumeration LDAP.md",
+    "Attaques/Web/Vulnérabilités d'authentification/Vulnérabilités OAuth.md",
+    "ProLab/Dante/Enumeration.md",
+    "Attaques/Outils/chisel.md",
+    "Attaques/Outils/Nmap.md",
+    "Attaques/Reverse Shell/JSP War Shell.md",
+    "Attaques/Python.md",
+    "Attaques/Web/Wordpress/Attaque.md",
+    "Attaques/Web/Wordpress/Enumeration.md",
+    "Attaques/Outils/WPscan.md",
+    "Attaques/Web/Inclusion de fichier.md",
+    "Attaques/Web/Wordpress",
+    "ProLab/Sans titre.md",
+    "ProLab/Dante",
+    "ProLab",
+    "Attaques/Kerberos/Golden Ticket.md",
+    "Attaques/Active Directory/AS-REP roasting.md",
+    "Attaques/Active Directory/DcSync attaque.md",
+    "Attaques/Active Directory/Abusing Active Directory ACLs.md",
+    "Informations",
     "Pasted image 20250226110719.png",
     "Pasted image 20250226110631.png",
-    "Attaques/Outils/Nmap.md",
     "Machine_writeUp",
-    "Attaques/Outils/Poweview.md",
-    "Attaques/Web/JWT Attacks/JWT Attacks.md",
     "Attaques/Web/JWT Attacks",
-    "Attaques/Outils/Bloodhound.md",
-    "Attaques/Outils/Guacamole.md",
-    "Attaques/Outils/PowerUps.md",
-    "Attaques/Enumerations/SMB/Enumeration SMB.md",
-    "Attaques/Outils/Crackmapexec.md",
-    "Attaques/Web/Inclusion de fichier.md",
-    "Attaques/Web/SQL injection.md",
     "Attaques/Kerberos",
-    "Attaques/Web/Path traversal.md",
-    "Attaques/Web/Injection de commande du système d'exploitation.md",
-    "Attaques/Outils/Evil-WinRM.md",
-    "Attaques/Active Directory/Abusing Active Directory ACLs.md",
-    "Attaques/Outils/username-anarchyPublic.md",
-    "Attaques/Enumerations/AD_Users/Enumeration Active Directory - Utilisateurs.md",
     "Attaques/Enumerations/AD_Domain",
-    "Attaques/Outils/hascat.md",
     "Attaques/Enumerations/Kerberos",
-    "Attaques/Web/Attaques de falsification de requête côté serveur (SSRF)",
-    "Attaques/Web/Vulnérabilités d'authentification",
-    "Attaques/Reverse Shell",
-    "Attaques/Élévation des privilèges/Azure"
+    "Attaques/Web/Attaques de falsification de requête côté serveur (SSRF)"
   ]
 }

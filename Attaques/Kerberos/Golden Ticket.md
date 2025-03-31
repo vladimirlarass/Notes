@@ -1,0 +1,1 @@
+L'attaque Golden Ticket permet aux attaquants de falsifier et de signer des TGT en utilisant le hachage du mot de passe du compte krbtgt. Lorsque ces tickets sont présentés à un serveur AD, les informations qu'ils contiennent ne seront pas du tout vérifiées et seront considérées comme valides car elles sont signées avec le hachage du mot de passe du compte krbtgt.
