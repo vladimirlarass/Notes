@@ -1,0 +1,1 @@
+L'API de protection des données (DPAPI) est un composant interne au système Windows. Elle permet à diverses applications de stocker des données sensibles (par exemple, des mots de passe).

