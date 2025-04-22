@@ -17,6 +17,22 @@ smbclient
  -
  crackmapexec smb 192.168.1.17 -u 'raj' -p '123' --shares
  --users 
- 
+ ```
+sudo nmap $ip$ -sV -sC -p139,445
+```
 
+```
+rpcclient -U " " $ip
+```
+
+Le `rpcclient`client rpc propose de nombreuses requêtes permettant d'exécuter des fonctions spécifiques sur le serveur SMB pour obtenir des informations
+srvinfo , enumdomains, querydominfo, netshareenumall , netsharegetinfo , enumdomusers , queryuser <RID>
+
+Impacket   - Samrrdump.py
+
+```
+smbmap -H $ip
+```
+
+ 
 https://fr.wikipedia.org/wiki/Server_Message_Block
