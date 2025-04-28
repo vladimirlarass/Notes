@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_writeUp/Nocturnal.md",
+                "file": "Machine_writeUp/GoodGame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nocturnal"
+              "title": "GoodGame"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine_writeUp/GoodGame.md",
+                "file": "Attaques/Enumerations/SMTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GoodGame"
+              "title": "SMTP"
             }
           }
         ],
@@ -177,42 +177,43 @@
   },
   "active": "fe8d5226c82675b8",
   "lastOpenFiles": [
-    "Pasted image 20250421145406.png",
-    "Pasted image 20250421145245.png",
-    "Pasted image 20250421145143.png",
-    "Pasted image 20250421144659.png",
-    "Pasted image 20250421143838.png",
-    "Attaques/Reverse Shell/JSP War Shell.md",
-    "Machine_writeUp/GoodGame.md",
-    "Pasted image 20250421142826.png",
-    "Pasted image 20250421142430.png",
-    "Pasted image 20250421141957.png",
-    "Pasted image 20250421141229.png",
-    "Attaques/Web/SSTI ( server side template injection ).md",
-    "Pasted image 20250421140207.png",
-    "Pasted image 20250421140123.png",
-    "Mes Fichiers.md",
-    "Attaques/Web/SQL injection.md",
-    "Machine_writeUp/Nocturnal.md",
-    "Attaques/Enumerations/NFS.md",
     "Attaques/Enumerations/DNS.md",
-    "Attaques/Enumerations/SMB/Enumeration SMB.md",
-    "Machine_writeUp/Active.md",
-    "Attaques/Enumerations/Sans titre.md",
-    "Attaques/Enumerations/FTP.md",
+    "Attaques/Enumerations/SMTP.md",
+    "Mes Fichiers.md",
     "Attaques/Enumerations/Enumeration.md",
-    "Attaques/Windows/Peristence.md",
+    "Attaques/Windows/Persistence.md",
+    "Attaques/Active Directory/AS-REP roasting.md",
+    "Attaques/Active Directory/Kerberoasting.md",
+    "Attaques/Outils/Rubeus.md",
+    "Attaques/Outils/Outils Attaque Active Directory.md",
+    "Attaques/Outils/kerbrute.md",
+    "Attaques/Outils/Responder.md",
+    "ChallengeTHM/Publisher.md",
+    "Pasted image 20250423143138.png",
+    "Pasted image 20250423143022.png",
+    "Pasted image 20250423142217.png",
+    "Attaques/Reverse Shell/JSP War Shell.md",
+    "Attaques/Outils/username-anarchyPublic.md",
+    "Attaques/Outils/PsExec v2.43.md",
     "Attaques/Outils/password Attack Tools.md",
-    "Informations/Processus de test de penetration.md",
-    "Attaques/Structure d'un test de pénétration.md",
-    "Attaques/Python.md",
-    "Attaques/Prérequis pour un test de pénétration.md",
-    "Attaques/Pre-engagement.md",
-    "Machine_writeUp/Linkvortex.md",
-    "Informations/OWASP Web Security Testing Guide.md",
-    "ProLab/offshore/Wrtieup.md",
-    "ProLab/Dante/Enumeration.md",
+    "Attaques/Outils/linPeas.md",
+    "Attaques/Outils/hascat.md",
+    "Attaques/Outils/Gobuster.md",
+    "Attaques/Outils/GetNPUsers.py.md",
+    "Attaques/Outils/Evil-WinRM.md",
+    "Attaques/Outils/Crackmapexec.md",
     "Attaques/Outils/chisel.md",
+    "Attaques/Enumerations/Sans titre.md",
+    "Attaques/Élévation des privilèges/Windows/Windows PrivEsc avec SeBackupPrivilege activé.md",
+    "ProLab/Dante/Enumeration.md",
+    "Pasted image 20250423001929.png",
+    "Pasted image 20250423001854.png",
+    "Pasted image 20250422225019.png",
+    "Pasted image 20250422224600.png",
+    "Pasted image 20250422223944.png",
+    "Pasted image 20250422222347.png",
+    "ChallengeTHM",
+    "Pasted image 20250421145406.png",
     "ProLab/offshore",
     "ProLab/Zephyr",
     "Attaques/Web/Wordpress",
@@ -221,7 +222,6 @@
     "Informations",
     "Machine_writeUp",
     "Attaques/Web/JWT Attacks",
-    "Attaques/Kerberos",
-    "Attaques/Enumerations/AD_Domain"
+    "Attaques/Active Directory/Kerberos"
   ]
 }
