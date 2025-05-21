@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attaques/Outils/Metasploit.md",
+                "file": "Informations/Processus.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Metasploit"
+              "title": "Processus"
+            }
+          },
+          {
+            "id": "c7f0f6fa900006d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_writeUp/Devvortex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devvortex"
+            }
+          },
+          {
+            "id": "2db48c5d43d01fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attaques/Outils/Crackmapexec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crackmapexec"
             }
           }
         ]
@@ -162,42 +190,42 @@
   },
   "active": "50626f0374105b24",
   "lastOpenFiles": [
-    "Attaques/Outils/BurpSuite.md",
-    "Attaques/Outils/Metasploit.md",
-    "Attaques/Outils/Proxychains.md",
-    "Attaques/Outils/Bloodhound.md",
+    "Machine_writeUp/Planning.md",
+    "Informations/Processus.md",
+    "Pasted image 20250521171535.png",
+    "Machine_writeUp/Puppy - Saison 8.md",
+    "Machine_writeUp/Devvortex.md",
+    "Machine_writeUp/Puppy - HTB.md",
+    "Pasted image 20250521151820.png",
+    "Pasted image 20250521150538.png",
+    "Pasted image 20250521144358.png",
+    "Pasted image 20250521144219.png",
+    "Pasted image 20250521142830.png",
+    "Pasted image 20250521141843.png",
+    "Pasted image 20250521141542.png",
+    "Pasted image 20250521141240.png",
+    "Pasted image 20250521122929.png",
     "Attaques/Outils/Crackmapexec.md",
+    "Attaques/Outils/kerbrute.md",
+    "Informations/IA - Cybersecurity.md",
     "Attaques/Outils/BloodyAD.md",
+    "Attaques/Outils/Bloodhound.md",
+    "Attaques/Outils/Gobuster.md",
+    "ChallengeTHM/lookup.md",
+    "ChallengeTHM/Mustacchio.md",
+    "Attaques/Active Directory/Golden Ticket.md",
+    "Informations/PowerShell.md",
+    "Machine_writeUp/GoodGame.md",
+    "Machine_writeUp/Eureka - HTB.md",
+    "Machine_writeUp/Linkvortex.md",
+    "Informations/Bug Bounty.md",
+    "Attaques/Outils/Metasploit.md",
+    "Attaques/Outils/BurpSuite.md",
+    "Attaques/Outils/Proxychains.md",
     "Attaques/Outils/chisel.md",
     "Informations/contrôleur de Domaine.md",
     "Informations/Compte dans Active Directory.md",
     "Informations/Strategie de Groupe.md",
-    "Informations/Usurpation de votre adresse IP.md",
-    "Informations/SID ( Identificateurs de sécurité ).md",
-    "Informations/Relation D'approbation Pour les Forest Dans l'AD.md",
-    "Informations/Processus de test de penetration.md",
-    "Informations/Principal de Service.md",
-    "Informations/Pivoting tunneling.md",
-    "Informations/OWASP Web Security Testing Guide.md",
-    "Defenses/Web/Brute Force/Blocage des attaques par force brute.md",
-    "ChallengeTHM/SilverPlatter.md",
-    "Attaques/Python.md",
-    "Attaques/Structure d'un test de pénétration.md",
-    "Attaques/Web/SSTI ( server side template injection ).md",
-    "Attaques/Web/SQL injection.md",
-    "Attaques/Web/Injection de commande du système d'exploitation.md",
-    "Attaques/Web/Inclusion de fichier.md",
-    "Attaques/Web/Wordpress/Enumeration.md",
-    "Pasted image 20250502162900.png",
-    "Pasted image 20250502162814.png",
-    "Pasted image 20250502161313.png",
-    "Pasted image 20250502161145.png",
-    "Pasted image 20250502160104.png",
-    "Pasted image 20250502154842.png",
-    "Pasted image 20250502154441.png",
-    "Pasted image 20250502154307.png",
-    "Pasted image 20250502154246.png",
-    "Pasted image 20250502152500.png",
     "Fortresses",
     "ChallengeTHM",
     "ProLab/offshore",
