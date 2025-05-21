@@ -15,7 +15,7 @@
               "state": {
                 "file": "Attaques/Active Directory/Delegation Kerberos.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Delegation Kerberos"
@@ -162,6 +162,8 @@
   },
   "active": "50626f0374105b24",
   "lastOpenFiles": [
+    "Attaques/Active Directory/Unconstrained Delegation.md",
+    "Attaques/Active Directory/Delegation Kerberos.md",
     "Informations/Processus de test de penetration.md",
     "Pasted image 20250521171535.png",
     "Pasted image 20250521151820.png",
@@ -183,7 +185,6 @@
     "ChallengeTHM/lookup.md",
     "ChallengeTHM/Mustacchio.md",
     "Attaques/Active Directory/Golden Ticket.md",
-    "Attaques/Active Directory/Delegation Kerberos.md",
     "Attaques/Outils/Metasploit.md",
     "Attaques/Outils/BurpSuite.md",
     "Attaques/Outils/Proxychains.md",
