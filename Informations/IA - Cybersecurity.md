@@ -1,0 +1,1 @@
+L’un des principaux objectifs de `AI`est d’augmenter les capacités humaines, et pas seulement de remplacer les efforts humains.
