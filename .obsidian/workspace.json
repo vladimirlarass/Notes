@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attaques/Active Directory/Delegation Kerberos.md",
+                "file": "Machine_writeUp/GoodGame.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Delegation Kerberos"
+              "title": "GoodGame"
+            }
+          },
+          {
+            "id": "fe8d5226c82675b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine_writeUp/TheFrizz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TheFrizz"
+            }
+          },
+          {
+            "id": "00d07263fa6ae5f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attaques/C2/Silver C2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Silver C2"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,9 +189,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50626f0374105b24",
+  "active": "00d07263fa6ae5f4",
   "lastOpenFiles": [
-    "Informations/Processus de test de penetration.md",
+    "Informations/Compte dans Active Directory.md",
+    "Attaques/C2/Silver C2.md",
+    "Attaques/C2",
+    "Informations/Bug Bounty.md",
+    "Informations/Processus.md",
+    "Informations/Strategie de Groupe.md",
+    "Informations/Usurpation de votre adresse IP.md",
+    "Defenses/Web/Brute Force/Blocage des attaques par force brute.md",
+    "Machine_writeUp/Nocturnal.md",
+    "Machine_writeUp/Haze HacktheBox.md",
+    "Attaques/Structure d'un test de pénétration.md",
+    "Machine_writeUp/TheFrizz.md",
+    "Machine_writeUp/Eureka - HTB.md",
     "Pasted image 20250521171535.png",
     "Pasted image 20250521151820.png",
     "Pasted image 20250521150538.png",
@@ -173,31 +214,21 @@
     "Pasted image 20250521141542.png",
     "Pasted image 20250521141240.png",
     "Pasted image 20250521122929.png",
-    "Machine_writeUp/Puppy - Saison 8.md",
-    "Machine_writeUp/Puppy - HTB.md",
-    "Machine_writeUp/Planning.md",
-    "Informations/Processus.md",
-    "Informations/PowerShell.md",
-    "Informations/IA - Cybersecurity.md",
-    "Informations/Bug Bounty.md",
-    "ChallengeTHM/lookup.md",
-    "ChallengeTHM/Mustacchio.md",
-    "Attaques/Active Directory/Golden Ticket.md",
-    "Attaques/Active Directory/Delegation Kerberos.md",
-    "Attaques/Outils/Metasploit.md",
-    "Attaques/Outils/BurpSuite.md",
-    "Attaques/Outils/Proxychains.md",
-    "Attaques/Outils/Bloodhound.md",
-    "Attaques/Outils/Crackmapexec.md",
-    "Attaques/Outils/BloodyAD.md",
-    "Attaques/Outils/chisel.md",
-    "Informations/contrôleur de Domaine.md",
-    "Informations/Compte dans Active Directory.md",
-    "Informations/Strategie de Groupe.md",
-    "Informations/Usurpation de votre adresse IP.md",
-    "Informations/SID ( Identificateurs de sécurité ).md",
-    "Informations/Relation D'approbation Pour les Forest Dans l'AD.md",
+    "Machine_writeUp/Linkvortex.md",
+    "Machine_writeUp/GoodGame.md",
+    "Machine_writeUp/code.md",
+    "Machine_writeUp/Devvortex.md",
+    "Mes Fichiers.md",
+    "Attaques/Prérequis pour un test de pénétration.md",
+    "Machine_writeUp/Administrator.md",
+    "Machine_writeUp/Active.md",
+    "ChallengeTHM/SilverPlatter.md",
+    "Attaques/Outils/feroxbuster.md",
+    "ChallengeTHM/Publisher.md",
+    "Fortresses/Flag.md",
+    "Fortresses/WriteUp.md",
     "Fortresses",
+    "Attaques/Enumerations/SMTP.md",
     "ChallengeTHM",
     "ProLab/offshore",
     "ProLab/Zephyr",
@@ -205,7 +236,6 @@
     "ProLab/Dante",
     "ProLab",
     "Informations",
-    "Machine_writeUp",
-    "Attaques/Web/JWT Attacks"
+    "Machine_writeUp"
   ]
 }
