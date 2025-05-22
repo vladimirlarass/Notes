@@ -31,4 +31,6 @@ https://www.nist.gov/privacy-framework/nist-sp-800-115
 https://owasp.org/www-project-web-security-testing-guide/stable/
 
 ## Le cadre MITRE ATT&CK
+Le **MITRE ATT&CK** est une base de connaissances de tactiques et techniques utilisées par les attaquants. Elle est utile pour aligner ses tests avec des **scénarios réalistes et basés sur des menaces réelles**.
+
 https://attack.mitre.org/
