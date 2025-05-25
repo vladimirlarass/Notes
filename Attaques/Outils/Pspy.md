@@ -1,0 +1,2 @@
+Pspy est un outil en ligne de commande conçu pour surveiller les processus sans avoir besoin des droits root. Il vous permet de voir les commandes exécutées par d'autres utilisateurs, les tâches cron, etc. en cours d'exécution
+https://github.com/DominicBreuker/pspy
