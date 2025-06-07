@@ -1,4 +1,6 @@
+```
 /home/kali/Documents/TryHackme/Wordlist/rockyou.txt
+```
 
 ```bash
 python -c 'import pty; pty.spawn("/bin/bash")'
