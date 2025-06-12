@@ -25,6 +25,15 @@ neo4j console
 http://localhost:7474/
 Bloodhound
 
+```bash
+bloodhound-python -u <UserName> -p <Password> -ns <Domain Controller's Ip> -d <Domain> -c All
+```
+
+```powershell
+#Using PowerShell module ingestor
+. .\SharpHound.ps1
+Invoke-BloodHound -CollectionMethod All --LdapUsername <UserName> --LdapPassword <Password> --OutputDirectory <PathToFile>
+```
 
 https://bloodhound.readthedocs.io/en/latest/index.html
 https://hausec.com/2019/09/09/bloodhound-cypher-cheatsheet/
