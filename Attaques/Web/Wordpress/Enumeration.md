@@ -1,6 +1,7 @@
 ## version 
   
 Énumération des versions principales de WordPress
+
 ```
 curl -s -X GET http://blog.inlanefreight.com | grep '<meta name="generator"'
 ```

