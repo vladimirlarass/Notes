@@ -1,4 +1,4 @@
-h
+
 
 Cet abus peut survenir lors du contrôle d'un objet doté d'un `GenericAll`, `GenericWrdddtechnique est appelée Kerberoasting ciblé.Cet abus peut survenir lors du contrôle d'un objet doté d'un GenericAll, GenericWriteou sur la cible. Un membre du groupe Opérateur de compteWriteProperty dispose généralement de ces autorisations.Validated-SPN[]
 
